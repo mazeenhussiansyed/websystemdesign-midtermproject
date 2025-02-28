@@ -1,4 +1,4 @@
-# websystemdesign-midtermproject
+# websystemdevelopment-midtermproject
 Project Overview
 We have a JSON file and two Python programs that take this JSON file as input and output useful information, such as client information (phone numbers and names), menu items, their prices, and the number of orders made.
 
